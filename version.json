@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/BuiQuangHuy16/HDJ_Tool/releases/download/v1.0.0/HDJ_Tool_Setup_v1.0.0.exe",
-  "releaseNotes": "Phiên bản đầu tiên\n- Hỗ trợ Revit 2019-2030\n- Dựng Cột, Dầm, Sàn từ CAD\n- Công cụ Rebar 3D\n- Công cụ Grid 2D/3D",
-  "releaseDate": "2026-02-03"
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/BuiQuangHuy16/HDJ_Tool/releases/download/v1.0.1/HDJ_Tool_Setup_v1.0.1.exe",
+  "releaseNotes": "Phiên bản 1.0.1\n- update create beam from cad,
+  "releaseDate": "2026-02-04"
 }
+
 
